@@ -1,0 +1,14 @@
+C:\Users\srrajale\source\repos\Training_SEP20\Training_SEP20\bin\Debug\net6.0\TrainingSEP20.exe
+C:\Users\srrajale\source\repos\Training_SEP20\Training_SEP20\bin\Debug\net6.0\TrainingSEP20.deps.json
+C:\Users\srrajale\source\repos\Training_SEP20\Training_SEP20\bin\Debug\net6.0\TrainingSEP20.runtimeconfig.json
+C:\Users\srrajale\source\repos\Training_SEP20\Training_SEP20\bin\Debug\net6.0\TrainingSEP20.dll
+C:\Users\srrajale\source\repos\Training_SEP20\Training_SEP20\bin\Debug\net6.0\TrainingSEP20.pdb
+C:\Users\srrajale\source\repos\Training_SEP20\Training_SEP20\obj\Debug\net6.0\TrainingSEP20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srrajale\source\repos\Training_SEP20\Training_SEP20\obj\Debug\net6.0\TrainingSEP20.AssemblyInfoInputs.cache
+C:\Users\srrajale\source\repos\Training_SEP20\Training_SEP20\obj\Debug\net6.0\TrainingSEP20.AssemblyInfo.cs
+C:\Users\srrajale\source\repos\Training_SEP20\Training_SEP20\obj\Debug\net6.0\TrainingSEP20.csproj.CoreCompileInputs.cache
+C:\Users\srrajale\source\repos\Training_SEP20\Training_SEP20\obj\Debug\net6.0\TrainingSEP20.dll
+C:\Users\srrajale\source\repos\Training_SEP20\Training_SEP20\obj\Debug\net6.0\refint\TrainingSEP20.dll
+C:\Users\srrajale\source\repos\Training_SEP20\Training_SEP20\obj\Debug\net6.0\TrainingSEP20.pdb
+C:\Users\srrajale\source\repos\Training_SEP20\Training_SEP20\obj\Debug\net6.0\TrainingSEP20.genruntimeconfig.cache
+C:\Users\srrajale\source\repos\Training_SEP20\Training_SEP20\obj\Debug\net6.0\ref\TrainingSEP20.dll

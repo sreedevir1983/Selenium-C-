@@ -1,0 +1,107 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Day10_AbstractClass1.cs" />
+    <Compile Remove="Day10_AbstractClass2.cs" />
+    <Compile Remove="Day10_AbstractClass3.cs" />
+    <Compile Remove="Day10_AbstractContract.cs" />
+    <Compile Remove="Day10_AbstractPerm.cs" />
+    <Compile Remove="Day10_Abstracts1.cs" />
+    <Compile Remove="Day11_StringSpaces.cs" />
+    <Compile Remove="Day11_SumDigits.cs" />
+    <Compile Remove="Day12_Exception1.cs" />
+    <Compile Remove="Day12_Exception2.cs" />
+    <Compile Remove="Day12_Rectangle.cs" />
+    <Compile Remove="Day13_AL_IntegerSum.cs" />
+    <Compile Remove="Day13_AL_ObjType.cs" />
+    <Compile Remove="Day13_ArrayList_Integer.cs" />
+    <Compile Remove="Day13_ArrayList_String.cs" />
+    <Compile Remove="Day13_Encapsulation.cs" />
+    <Compile Remove="Day13_List1.cs" />
+    <Compile Remove="Day14_ArraySum.cs" />
+    <Compile Remove="Day14_Fibonacci.cs" />
+    <Compile Remove="Day14_Files1.cs" />
+    <Compile Remove="Day14_NaturalNum.cs" />
+    <Compile Remove="Day15_CarProperties.cs" />
+    <Compile Remove="Day15_Factorial.cs" />
+    <Compile Remove="Day15_method_Inher.cs" />
+    <Compile Remove="Day15_Palindrom.cs" />
+    <Compile Remove="Day1Class.cs" />
+    <Compile Remove="Day2Class.cs" />
+    <Compile Remove="Day3Class_switch.cs" />
+    <Compile Remove="Day3_IF_Else.cs" />
+    <Compile Remove="Day4_Loop.cs" />
+    <Compile Remove="Day5_Class_Arrays1.cs" />
+    <Compile Remove="Day5_Class_ArraysString.cs" />
+    <Compile Remove="Day6_Method.cs" />
+    <Compile Remove="Day6_Method2.cs" />
+    <Compile Remove="Day7_Class1_Method3.cs" />
+    <Compile Remove="Day8_Class_Objects.cs" />
+    <Compile Remove="Day9Class_Inheritance.cs" />
+    <Compile Remove="Day9_Inheritance-HW2.cs" />
+    <Compile Remove="Day9_Inheritance_HW.cs" />
+    <Compile Remove="Interface1.cs" />
+    <Compile Remove="Interface_Class1.cs" />
+    <Compile Remove="Interface_Class2.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Day10_AbstractClass1.cs" />
+    <None Include="Day10_AbstractClass2.cs" />
+    <None Include="Day10_AbstractClass3.cs" />
+    <None Include="Day10_AbstractContract.cs" />
+    <None Include="Day10_AbstractPerm.cs" />
+    <None Include="Day10_Abstracts1.cs" />
+    <None Include="Day11_StringSpaces.cs" />
+    <None Include="Day11_SumDigits.cs" />
+    <None Include="Day12_Exception1.cs" />
+    <None Include="Day12_Exception2.cs" />
+    <None Include="Day12_Rectangle.cs" />
+    <None Include="Day13_AL_IntegerSum.cs" />
+    <None Include="Day13_AL_ObjType.cs" />
+    <None Include="Day13_ArrayList_Integer.cs" />
+    <None Include="Day13_ArrayList_String.cs" />
+    <None Include="Day13_Encapsulation.cs" />
+    <None Include="Day13_List1.cs" />
+    <None Include="Day14_ArraySum.cs" />
+    <None Include="Day14_Fibonacci.cs" />
+    <None Include="Day14_Files1.cs" />
+    <None Include="Day15_CarProperties.cs" />
+    <None Include="Day15_Factorial.cs" />
+    <None Include="Day15_method_Inher.cs" />
+    <None Include="Day15_Palindrom.cs" />
+    <None Include="Day1Class.cs" />
+    <None Include="Day2Class.cs" />
+    <None Include="Day3Class_switch.cs" />
+    <None Include="Day3_IF_Else.cs" />
+    <None Include="Day4_Loop.cs" />
+    <None Include="Day5_Class_Arrays1.cs" />
+    <None Include="Day5_Class_ArraysString.cs" />
+    <None Include="Day6_Method.cs" />
+    <None Include="Day6_Method2.cs" />
+    <None Include="Day7_Class1_Method3.cs" />
+    <None Include="Day8_Class_Objects.cs" />
+    <None Include="Day9Class_Inheritance.cs" />
+    <None Include="Day9_Inheritance-HW2.cs" />
+    <None Include="Day9_Inheritance_HW.cs" />
+    <None Include="Interface1.cs" />
+    <None Include="Interface_Class1.cs" />
+    <None Include="Interface_Class2.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Day14_Files\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Day14_NaturalNum.cs" />
+  </ItemGroup>
+
+</Project>
